@@ -1,4 +1,5 @@
-# tugas-day-14
+# Tugas day 14
+## Daftar isi
 
 daftarpage.html berisi DOM  dengan fungsi registrasi user sederhana
 
